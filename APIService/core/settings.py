@@ -3,8 +3,8 @@ from pydantic import Field
 from pydantic_settings import BaseSettings
 
 
-class Config(BaseSettings):
+class Settings(BaseSettings):
     debug: bool = Field(True, env='DEBUG')
 
 
-config = Config()
+config = Settings()
