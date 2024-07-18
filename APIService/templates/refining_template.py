@@ -39,5 +39,5 @@ POLISH_TEMPLATE = """
 
 输出应格式化为符合以下JSON模式的JSON实例：
 
-{schema}
+{format_instructions}
 """
