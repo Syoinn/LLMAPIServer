@@ -41,3 +41,8 @@ POLISH_TEMPLATE = """
 
 {format_instructions}
 """
+
+EXPAND_TEMPLATE = """ """
+SHORTEN_TEMPLATE = """ """
+CONTINUE_TEMPLATE = """ """
+INSPIRATION_TEMPLATE = """ """
